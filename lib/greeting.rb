@@ -1,5 +1,6 @@
 # code the #greeting method here!
 def greeting(name)
-  puts "Hello #{name}. It's nice to meet you."
+  name = "./bin/greet", "name"
+  puts ""
 end
 greeting("Don")
