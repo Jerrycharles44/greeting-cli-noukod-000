@@ -7,5 +7,5 @@ name=gets.strip
 name= "Don"
 
 def greeting (Don)
-puts
+puts 
 end
